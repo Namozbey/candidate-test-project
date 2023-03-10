@@ -12,6 +12,7 @@
 ## Project Description
 
 The goal of this project is to assess your React development skills, as well as your ability to work with a basic REST server. You will be building a web application that allows users to view, add, edit, and delete a list of products. The list of products will be stored in a JSON file and accessed through a JSON server. Users should be able to perform CRUD operations on the list of products.
+You are free to use any UI tools you want.
 
 ### Requirements
 
@@ -26,7 +27,7 @@ The goal of this project is to assess your React development skills, as well as 
 - Ability to filter products by category
 - Pagination implementation
 - Search products
-- Good looking design
+- Good-looking design
 - Paying attention to small details
 
 #### Bonus Points
@@ -45,4 +46,3 @@ The project will be assessed based on the following criteria:
 - Code organization and maintainability.
 - Use of best practices and design patterns.
 - Code readability and documentation.
-
