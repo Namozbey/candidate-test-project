@@ -1,0 +1,22 @@
+{
+  "name": "candidate-test-project",
+  "version": "1.0.0",
+  "description": "## First Steps",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Namozbey/candidate-test-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Namozbey/candidate-test-project/issues"
+  },
+  "homepage": "https://github.com/Namozbey/candidate-test-project#readme",
+  "devDependencies": {
+    "json-server": "^0.17.2"
+  }
+}
