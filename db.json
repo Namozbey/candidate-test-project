@@ -17,12 +17,12 @@
       "imageSrc": "https://cdn.shopify.com/s/files/1/0718/4754/3105/products/7883dc186e15bf29dad696e1e989e914.jpg?v=1677779862"
     },
     {
-      "id": 3,
       "name": "Radlee Dress",
       "description": "Get some compliments. The Perry is slim fitting throughout with a lettuce hem at the sleeve opening and skirt hem. It's soft and stretchy for an extra comfortable feel.",
-      "price": 23.99,
       "category": "dress",
-      "imageSrc": null
+      "price": 23.99,
+      "imageSrc": "https://sites.create-cdn.net/siteimages/28/4/9/284928/15/7/9/15798435/761x1000.jpg?1505296014",
+      "id": 3
     }
   ]
 }
