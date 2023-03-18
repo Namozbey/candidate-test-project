@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Namozbey/candidate-test-project#readme",
   "devDependencies": {
     "json-server": "^0.17.2"
+  },
+  "dependencies": {
+    "cors": "^2.8.5"
   }
 }
